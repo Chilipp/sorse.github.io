@@ -4,7 +4,7 @@ permalink: /faq/about/format-of-sorse
 tags:
   - About
 ---
-SORSE will deliver a range of different types of events in ideally a 1 hour or 2 hour time slot (but the event could be shorter), followed by time for networking and discussion with other participants.
+SORSE will deliver a range of different types of events in ideally a 1 hour or 2 hour time slot (but the event could be shorter), followed by time for networking and informal discussion with other participants.
 
 We plan to run events approximately weekly, depending on presenter availability. One of the core aims of SORSE is to promote the concepts of Research Software Engineering and spread the word about RSE skills and activities to a multi-national audience. 
 
